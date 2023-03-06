@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 90%;
+  height: 90%;
+  background-color: turquoise;
+}
+.top {
+  width: 100%;
+  height: 20%;
+  background-color: springgreen;
+}
+.mid {
+  width: 100%;
+  height: 50%;
+  background-color: tomato;
+  display: flex;
+}
+.bottom {
+  width: 100%;
+  height: 30%;
+  background: slategray;
+}
+.left {
+  width: 70%;
+  height: 100%;
+  background-color: yellow;
+}
+.right {
+  width: 30%;
+  height: 100%;
+  background-color: yellowgreen;
+}
+.deed {
+  width: 100%;
+  height: 30%;
+  background-color: violet;
+  margin: 5px;
+}
+.gol {
+  width: 100%;
+  height: 40%;
+  background-color: rebeccapurple;
+  margin: 5px;
+}
+.dood {
+  width: 100%;
+  height: 25%;
+  background-color: wheat;
+  margin: 5px;
+}
+.right img {
+  width: 100%;
+  height: 100%;
+}
